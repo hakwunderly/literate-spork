@@ -177,6 +177,15 @@ footer{
   text-align:center;
 }
 
+
+#footer{
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#e8491d;
+  text-align:center;
+}
+
 /* Media Queries */
 @media(Max-Width:768px){
 /* Max-Width:768px is for Tablet Screens Viewing.
@@ -205,6 +214,18 @@ Tablet Device Displays. */
   /* This header is for adding space underneath
   the header for each web page to enhance responsiveness
   when viewing on tablets & phones*/
- 
-  
+  #showcase h1{
+    margin-top:40px;
+  }
+  /* margin-top:40px; is for aligning the space of webpages.
+  Even if the default Margin is 100px; */
+  #newsletter button, .quote button{
+    display:block;
+    width:100%;
+  }
+
+  #newsletter form input[type="email"], .quote input, .quote textarea{
+    width:100%;
+    margin-bottom:5px;
+  }
 }
