@@ -1,0 +1,19 @@
+/*https://htmlcodex.com/bakery-website-template/*/
+:root {
+    --primary: #EAA636;
+    --secondary: #545454;
+    --light: #FDF5EB;
+    --dark: #1E1916;
+}
+
+.copyright {
+    background: #111111;
+}
+
+    .copyright a {
+        color: var(--primary);
+    }
+
+        .copyright a:hover {
+            color: var(--light);
+        }
