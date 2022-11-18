@@ -3,6 +3,8 @@ Original file: https://github.com/chrisdev22/ACME
 
 Credits: To Top https://github.com/godsont/back-to-top-button
 
+Credits: Baker Template https://htmlcodex.com/bakery-website-template/
+
 In this project. I made a website template using HTML5, CSS3, and JavaScript. 
 
 To build the index page I envisioned it in a responsive yet simple structure.
